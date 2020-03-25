@@ -1,6 +1,7 @@
 # Karin Gandler - Portfolio
 Karin's Gandler Advanced GIS portfolio. 
 
+
 # About me
 
 Hello! My name is Karin, and I'm a second-year MSPPM student. I'm really excited for this class! I was doing a lot of GIS last semester between the intro class and my Systems project, and I've hardly done any this semester. I'm really happy to be able to do some more GIS.
