@@ -50,4 +50,5 @@ I had seen the heat map function before (it's something I can get done in ArcGIS
 
 ### Final Project - The Effect of COVID-19 on Immigrant Populations
 
-Will add tomorrow when final project is fully complete!
+[COVID and Non Citizen Communities](https://arcg.is/5Lmve)
+
